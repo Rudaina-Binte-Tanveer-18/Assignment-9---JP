@@ -600,3 +600,106 @@
 // Question # 04
 // let longNum = 123.456789;
 // alert(longNum.toFixed(2).toString());
+
+// //Function
+// // Question # 01
+// function displayAlert(){
+
+// }
+// // Question # 02
+// function askName(){
+//     var userName = +prompt("Enter name")
+// }
+// // Question # 03
+// function callFunction(){
+//     askName()
+//     displayAlert()
+// }
+// // Question # 04
+// function display(){
+//     var userName = +prompt("Enter name")
+//     alert(userName)
+// }
+// // Question # 05
+// function concat(a, b, c){
+
+// }
+// var myName="RBT"
+// concat(myName, "NED", 18)
+// // Question # 06
+// function Concat(one, two){
+//     var result = one+two
+// }
+// // Question # 07
+// function Multiply(one, two, three){
+//     var result = one*two*three
+// }
+// // Question # 08
+// function Array(array){
+//     var num = array.length
+//     var sum = 0
+//     for(let i=0; i<=num; i++){
+//         sum += arr[i]
+//     }
+//     var avg = sum / num
+//     return avg
+// }
+// // Question # 09
+// function Add(a, b){
+//     var result = a + b
+//     return result
+// }
+// // Question # 10
+// function Array(array){
+//     var num = array.length
+//     var sum = 0
+//     for(let i=0; i<=num; i++){
+//         sum += arr[i]
+//     }
+//     var avg = sum / num
+//     return avg
+// }
+// // Question # 11
+
+// // Question # 12
+// function wordCount(word){
+//     var count = word.length
+// }
+// // Question # 13
+// function setYear(){
+//     var date = new Date()
+//     date.setFullYear(2023)
+//     return date
+// }
+// // Question # 14
+// function DOB(){
+//     var dob = +prompt("Enter your year of birth")
+//     var age = dob - new Date().getFullYear()
+//     return age
+// }
+// // Question # 15
+// function word(){
+//     var array = ['zaid','haris','raza','abubakar','hassan','hussain','fatima']
+
+// }
+// // Question # 16
+// function repeat(str){
+//     return str.repeat(10)
+// }
+// // Question # 17
+// function reverseAraay(arr){
+//     arr = arr.reverse()
+//     return arr
+// }
+
+// //Local vs. Global Variables
+// // Question # 1 & 2
+// var globalVar = "JP Class"
+
+// function access(){
+//     var localVar = "Web Dev"
+//     alert(globalVar)
+//     alert(localVar)
+// }
+
+// alert(globalVar)
